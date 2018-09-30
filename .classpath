@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/classmate-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/hibernate-core-5.0.6.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/hibernate-entitymanager-5.0.6.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/hibernate-validator-5.0.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/jackson-annotations-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/jackson-core-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/jackson-databind-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/jandex-2.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/jboss-logging-3.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/jboss-logging-annotations-1.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/jboss-transaction-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/jsp-api-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/jstl-api-1.2-rev-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/mysql-connector-java-5.1.38.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/spring-aop-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/spring-beans-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/spring-context-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/spring-core-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/spring-expression-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/spring-jdbc-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/spring-orm-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/spring-tx-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/spring-web-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/spring-webmvc-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Claudemir Note/Documents/MATERIAS 2º SEMESTRE 2018/Arquitetura de software/Aula3.1/libs/lib/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
